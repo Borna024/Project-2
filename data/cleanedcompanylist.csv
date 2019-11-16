@@ -1,0 +1,44 @@
+Symbol,Name,LastSale,MarketCap,IPOyear,Sector,industry
+ACM,AECOM,43.19,$6.81B,2007,Consumer Services,Military/Government/Technical
+AA,Alcoa Corporation,20.89,$3.88B,2016,Basic Industries,Aluminum
+APLE,"Apple Hospitality REIT, Inc.",16.08,$3.6B,2015,Consumer Services,Real Estate Investment Trusts
+BCS,Barclays PLC,8.78,$37.91B,n/a,Finance,Commercial Banks
+BRK.B,Berkshire Hathaway Inc.,n/a,n/a,n/a,n/a,n/a
+BHP,BHP Group Limited,50.89,$128.7B,n/a,Basic Industries,Precious Metals
+BLK,"BlackRock, Inc.",490.96,$76.19B,1999,Finance,Investment Bankers/Brokers/Service
+BA,Boeing Company (The),371.68,$209.18B,n/a,Capital Goods,Aerospace
+BP,BP p.l.c.,39.21,$132.82B,n/a,Energy,Integrated oil Companies
+CAT,"Caterpillar, Inc.",145.31,$80.31B,n/a,Capital Goods,Construction/Ag Equipment/Trucks
+CBRE,"CBRE Group, Inc.",56.44,$18.89B,n/a,Finance,Real Estate
+CHGG,"Chegg, Inc.",36.57,$4.38B,2013,Consumer Services,Other Consumer Services
+CHWY,"Chewy, Inc.",23.4,$9.33B,2019,Consumer Services,Catalog/Specialty Distribution
+KO,Coca-Cola Company (The),52.67,$225.66B,n/a,Consumer Non-Durables,Beverages (Production/Distribution)
+RACE,Ferrari N.V.,167,$41.62B,2015,Capital Goods,Auto Manufacturing
+F,Ford Motor Company,8.95,$35.49B,n/a,Capital Goods,Auto Manufacturing
+GM,General Motors Company,36.89,$53.55B,2010,Capital Goods,Auto Manufacturing
+GS,"Goldman Sachs Group, Inc. (The)",220.25,$77.99B,1999,Finance,Investment Bankers/Brokers/Service
+HAL,Halliburton Company,20.48,$17.98B,n/a,Energy,Oilfield Services/Equipment
+IBM,International Business Machines Corporation,134.4,$119.03B,n/a,Technology,Computer Manufacturing
+LAZ,Lazard Ltd.,37.8,$3.97B,2005,Finance,Investment Managers
+LEVI,Levi Strauss & Co,17.18,$6.75B,2019,Consumer Non-Durables,Apparel
+MC,Moelis & Company,33.72,$1.66B,2014,Finance,Investment Managers
+MS,Morgan Stanley,48.99,$79.3B,n/a,Finance,Investment Bankers/Brokers/Service
+JWN,"Nordstrom, Inc.",38.04,$5.91B,n/a,Consumer Services,Clothing/Shoe/Accessory Stores
+ORCL,Oracle Corporation,56.42,$185.2B,1986,Technology,Computer Software: Prepackaged Software
+PCG,Pacific Gas & Electric Co.,7.42,$3.93B,n/a,Public Utilities,Power Generation
+PFE,"Pfizer, Inc.",37.28,$206.31B,n/a,Health Care,Major Pharmaceuticals
+RL,Ralph Lauren Corporation,112.61,$8.4B,1997,Consumer Non-Durables,Apparel
+CRM,Salesforce.com Inc,163.21,$143.14B,2004,Technology,Computer Software: Prepackaged Software
+SLB,Schlumberger N.V.,35.36,$48.95B,n/a,Energy,Oilfield Services/Equipment
+SHAK,"Shake Shack, Inc.",62.66,$2.35B,2015,Consumer Services,Restaurants
+SHW,Sherwin-Williams Company (The),592.77,$54.72B,n/a,Consumer Services,RETAIL: Building Materials
+SHOP,Shopify Inc.,312.38,$32.55B,2015,Technology,Computer Software: Prepackaged Software
+SNAP,Snap Inc.,13.94,$19.52B,2017,Technology,"Computer Software: Programming, Data Processing"
+SPOT,Spotify Technology S.A.,147.51,$25.75B,2018,Consumer Services,Broadcasting
+BX,The Blackstone Group Inc.,52.52,$62.99B,2007,Finance,Investment Managers
+TIF,Tiffany & Co.,125.08,$15.11B,1987,Consumer Services,Consumer Specialties
+UBER,"Uber Technologies, Inc.",26.79,$45.7B,2019,Miscellaneous,Business Services
+VZ,Verizon Communications Inc.,59.51,$246.12B,n/a,Public Utilities,Telecommunications Equipment
+V,Visa Inc.,179.77,$401.14B,n/a,Miscellaneous,Business Services
+WMT,Walmart Inc.,118.87,$338.1B,n/a,Consumer Services,Department/Specialty Retail Stores
+WM,"Waste Management, Inc.",112.16,$47.58B,n/a,Public Utilities,Environmental Services
